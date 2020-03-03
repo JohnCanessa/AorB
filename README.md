@@ -5,4 +5,4 @@ https://www.hackerrank.com/challenges/aorb/problem?utm_campaign=challenge-recomm
 
 How I arrived to the solution in my blog:
 
-T. B. D.
+https://www.johncanessa.com/2020/03/03/a-or-b/
